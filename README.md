@@ -10,7 +10,7 @@ I’m a **Cloud-focused Full Stack Engineer** who loves building **scalable, end
 
 ### ⚙️ Backend Development
 
-* Build robust APIs & microservices using **Java (Spring Boot)** and **Node.js**
+* Build robust APIs & microservices using **.NET/C#,Java (Spring Boot)** and **Node.js**
 
 ### 🎨 Frontend Development
 
